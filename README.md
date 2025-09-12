@@ -43,12 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seizimatsuo&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seizimatsuo&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact
 - Email: （連絡先を記載）
 - Portfolio: （任意）

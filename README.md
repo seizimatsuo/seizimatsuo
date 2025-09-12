@@ -37,12 +37,6 @@
 - **Frameworks**: React / Next.js
 - **Infra / Tools**: AWS / Linux / Apache / Git / GitHub / Docker
 
----
-
-## 📫 Contact
-- Email: （連絡先を記載）
-- Portfolio: （任意）
-- LinkedIn: （任意）
 
 <!-- Optional: English section
 ## 🇬🇧 Summary (EN)

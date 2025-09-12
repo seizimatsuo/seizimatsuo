@@ -1,9 +1,5 @@
 # Welcome to My GitHub 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=seizimatsuo&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/seizimatsuo?style=social)
-![GitHub stars](https://img.shields.io/github/stars/seizimatsuo?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
 ---
 
 ## 👤 About Me

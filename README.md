@@ -17,7 +17,7 @@
 - **Tech**: PHP / MariaDB / Apache (LAMP)
 - **概要**: 収入・支出を管理し、月ごとの貯金目標や達成率を可視化できる家計簿アプリ。  
   ユーザーはカテゴリ別に収支を登録し、グラフや目標管理機能を通じて家計改善に役立てられる。
-- **役割**: チームリーダー、認証・MVC・収支登録/編集、進捗管理
+- **役割**: チームリーダー、認証・MVC・収支登録/編集、進捗管理、DB設計
 - 🔗 リポジトリ: [CT3A-2nd-group/household-account-book](https://github.com/CT3A-2nd-group/household-account-book)
 
 ---

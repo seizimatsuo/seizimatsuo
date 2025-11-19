@@ -29,7 +29,7 @@
 ---
 
 ### 🧓 高齢者見守り検知アプリ（非公開・ハッカソン）
-- **Tech**: Cisco Meraki (MV/MT) / MQTT / AWS (APIGW, Lambda, RDS) / React
+- **Tech**: Cisco Meraki (MV/MT) / MQTT / AWS (APIGW, Lambda, RDS) / React / PHP
 - **概要**: カメラ＋センサーで転倒/環境を検知し、ダッシュボードとWebexで可視化
 - **役割**: フロントのモック作成、情報設計、発表資料作成
 - Cisco主催ハッカソンにてファイナリスト進出
